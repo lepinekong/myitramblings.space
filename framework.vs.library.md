@@ -1,1 +1,1 @@
-You call a library, a framework calls you.
+You call a library whereas a framework calls you.
